@@ -4,10 +4,12 @@
 
 ## [DeepLearning - Courses](https://github.com/TomasHermosillaa/Portfolio/tree/main/Courses-DeepLearning)
 
+## [DeepLearning - Projects](https://github.com/TomasHermosillaa/Portfolio/tree/main/Projects)
+
 ## [Bioinformatics - Courses](https://github.com/TomasHermosillaa/Portfolio/tree/main/Courses-Bioinformatics)
 
 ## [Artificial Generative Intelligence - Courses](https://github.com/TomasHermosillaa/Portfolio/tree/main/Courses-AGI)
 
-## [DeepLearning - Projects](https://github.com/TomasHermosillaa/Portfolio/tree/main/Projects)
+
 
 
